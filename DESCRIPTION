@@ -1,0 +1,13 @@
+Package: avgImpute
+Type: Package
+Title: Imputation using averages of similar observations.
+Version: 0.4.0
+Authors@R: person("Daniel", "Hoop", email = "daniel.hoop@net", role = c("aut", "cre"))
+Description: For each observation, similar observations are searched by using distance metrics.
+    The package offers the possibility to express extensive calculations in an easy manner.
+    It will check for circle references in the calculations.
+    Consult the help files for more information.
+License: All rights reserved
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
